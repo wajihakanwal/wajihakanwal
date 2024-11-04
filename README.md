@@ -1,4 +1,3 @@
-![Welcome to My GitHub Profile](https://github.com/wajihakanwal/cover_pic.png)
 ![GitHub Cover pic](https://github.com/user-attachments/assets/321b4b6f-2eb0-4282-b664-cdcca1765868)
 
 
