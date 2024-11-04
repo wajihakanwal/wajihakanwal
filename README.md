@@ -1,4 +1,4 @@
-![Welcome to My GitHub Profile](https://github.com/username123/username123/blob/main/cover-image.png)
+![Welcome to My GitHub Profile](https://github.com/wajihakanwal/wajihakanwal/blob/main/cover-image.png)
 
 ## Hi there 👋
 
