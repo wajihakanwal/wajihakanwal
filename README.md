@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analysis in PowerBi
 - 🌱 I’m currently learning Agentic AI Engineering OpenAI SDK, CrewAI w/o Flows
---!>
+
+-->
+
+
