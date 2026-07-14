@@ -1,4 +1,4 @@
-![Alt text](cover_pic.png)
+![Alt text](github_cover_1280x640.png)
 
 # Wajiha Kanwal
 
